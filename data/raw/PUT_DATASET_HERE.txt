@@ -1,0 +1,6 @@
+Place the Kaggle IBM HR Analytics Employee Attrition & Performance CSV here.
+
+Expected filename:
+WA_Fn-UseC_-HR-Employee-Attrition.csv
+
+The third-party dataset is intentionally not bundled.

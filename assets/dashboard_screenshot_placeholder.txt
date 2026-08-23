@@ -1,0 +1,7 @@
+Replace this file with your final dashboard screenshot.
+
+Recommended filename:
+dashboard_screenshot.png
+
+Recommended placement:
+README.md → Dashboard section
