@@ -1,6 +1,6 @@
 # IBM HR Employee Attrition Analysis
 
-SQL-first exploratory analysis of employee attrition in the IBM HR Analytics dataset, with an Excel workbook, a Power BI dashboard specification and a written report.
+SQL-first exploratory analysis of employee attrition in the IBM HR Analytics dataset, with an Excel workbook, and a written report.
 
 ## Business question
 Which employees are leaving, and which working conditions are associated with leaving, so HR can focus retention effort where it matters?
