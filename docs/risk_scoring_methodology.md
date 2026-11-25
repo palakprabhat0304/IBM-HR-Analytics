@@ -67,6 +67,3 @@ Giving all four rules equal weight (1 each, 0-4) also separates attrition well (
 - Use only to prioritise supportive conversations (workload, pay review, onboarding), never for automated decisions about hiring, pay or dismissal.
 - Age and gender are deliberately not inputs.
 - Review the score against real outcomes before using it anywhere else.
-
-## Next steps (if extended)
-Logistic regression or a decision tree with a held-out test set and cross-validation; compare AUC against this rule; check results across gender and age groups for fairness.
