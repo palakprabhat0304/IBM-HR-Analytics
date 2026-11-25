@@ -2,8 +2,6 @@
 
 SQL-first exploratory analysis of employee attrition in the IBM HR Analytics dataset, with an Excel workbook, a Power BI dashboard specification and a written report.
 
-> **Status:** SQL analysis, Excel workbook and report are complete. The Power BI `.pbix` is built from `powerbi/powerbi_build_guide.md`; add the screenshot to `images/` once it is done.
-
 ## Business question
 Which employees are leaving, and which working conditions are associated with leaving, so HR can focus retention effort where it matters?
 
@@ -14,7 +12,7 @@ Which employees are leaving, and which working conditions are associated with le
 - Details: [`docs/data_dictionary.md`](docs/data_dictionary.md)
 
 ## Tools
-PostgreSQL (analysis) · Excel (summary workbook, formulas) · Power BI (dashboard) · Python/matplotlib (report charts)
+PostgreSQL (analysis) · Excel (summary workbook, formulas) · Python/matplotlib (report charts)
 
 ## Headline findings
 Overall attrition: **237 of 1,470 employees left (16.12%)**.
@@ -40,8 +38,6 @@ Correlations with attrition are weak: Age -0.159, MonthlyIncome -0.16, YearsAtCo
 sql/          numbered SQL scripts (01 data quality ... 06 executive results)
 data/         source CSV (WA_Fn-UseC_-HR-Employee-Attrition.csv)
 excel/        HR_Attrition_Analysis.xlsx (formula-driven summary sheets and charts)
-powerbi/      build guide (DAX measures, page layout) and the .pbix once built
-images/       charts and dashboard screenshot
 docs/         data dictionary, methodology, recommendations, limitations
 report/       final report PDF
 ```
